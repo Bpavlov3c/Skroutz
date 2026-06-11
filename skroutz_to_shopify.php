@@ -4,7 +4,7 @@
 $skroutzWebhookFileUrl = 'https://www.bebemama.info/skroutz_orders.txt';
 $mappingCsvUrl = 'http://bebemama.info/Reports/SkroutzReport.csv';
 
-$shopifyStore = 'quickstart-aaa49619';
+$shopifyStore = 'bebemama-com';
 $shopifyAccessToken = getenv('SHOPIFY_TOKEN');
 $shopifyApiVersion = '2022-01';
 
